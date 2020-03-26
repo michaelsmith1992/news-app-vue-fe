@@ -65,5 +65,6 @@ async function getArticles(number, { $store }) {
     return null;
   }
 }
+// test
 
 export { loginReq, logoutReq, getTopics, getArticles };
